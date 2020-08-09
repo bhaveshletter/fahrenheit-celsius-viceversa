@@ -1,6 +1,7 @@
 # Convert Fahrenheit to Celsius and vice versa
 
-Angular version 10.0.5 & Node.js version 12.11.1
+```Angular10 and Node.js12.11.x```
+
 This project was generated with Angular CLI version 10.0.4.
 
 ## Development server
