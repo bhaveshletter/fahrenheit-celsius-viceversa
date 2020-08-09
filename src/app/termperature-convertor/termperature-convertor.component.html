@@ -1,0 +1,25 @@
+<div class="title">
+  Termperature Converter
+</div>
+<div class="celsius-farherheit">
+  <div class="celsius">
+    <input
+      type="text"
+      [(ngModel)]="cel"
+      name="celsius"
+      placeholder="Enter Celsius"
+      appTwoDecimalNumber
+    />
+    <!-- (keyup)="convert($event)" -->
+  </div>
+  <div class="farherheit">
+    <input
+      type="text"
+      [(ngModel)]="fah"
+      name="fahrenheit"
+      placeholder="Enter Fahrenheit"
+      appTwoDecimalNumber
+    />
+    <!-- (keyup)="convert($event)" -->
+  </div>
+</div>
