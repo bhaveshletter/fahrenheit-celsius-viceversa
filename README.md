@@ -1,4 +1,4 @@
-# FahrenheitCelsiusViceversa
+# Convert Fahrenheit to Celsius and Viceversa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 Angular version 10.0.5 & Node.js version 12.11.1
